@@ -17,7 +17,7 @@
 
 ### Technical Higlights
 * Used stratified k-fold
-* Used a custom loss function and a trainer with to drop `30% of 'O'` label in loss calculation and allocate `0.01` as the weight for `'O'` class
+* Used a custom loss function and a trainer to drop `30% of 'O'` labels during the loss calculation while allocating `0.01` as the weight for `'O'` class
   ![image](https://github.com/mjdileep/PII-Detect/assets/6938724/2d7acb1a-9cab-4433-8de4-7a8700f00ed8)
   ![image](https://github.com/mjdileep/PII-Detect/assets/6938724/17ad6413-528d-4cc0-a2a3-37fe6f90e76b)
 
