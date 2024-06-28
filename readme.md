@@ -1,4 +1,4 @@
-## 19th Plase solution for PII Detect challenge by The Learning Agency Lab 
+## 18th Place (Silver medal) solution for PII Detect challenge by The Learning Agency Lab 
 ### Summary
 * Model used: [microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large) (6 layers frozen, 5 fold ensemble)
 * Performance: F5 = 0.965
@@ -13,7 +13,7 @@
     - [PII - Mixtral8x7B generated essays](https://www.kaggle.com/datasets/mpware/pii-mixtral8x7b-generated-essays)
     - [Mixtral Original Prompt](https://www.kaggle.com/datasets/tonyarobertson/mixtral-original-prompt)
 
-![image](https://github.com/mjdileep/PII-Detect/assets/6938724/7869a88f-12f2-4dd8-a036-ac03190b2a8c)
+![image](https://github.com/mjdileep/PII-Detect/assets/6938724/af984baf-41ee-4303-a8b9-6ea26f4fce37)
 
 ### Technical Higlights
 * Used stratified k-fold
